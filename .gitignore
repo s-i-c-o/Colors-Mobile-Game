@@ -4,6 +4,7 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+.gradle/
 
 # Visual Studio cache directory
 .vs/
@@ -24,7 +25,8 @@ ExportedObj/
 *.pdb
 *.opendb
 *.VC.db
-
+*.mp3
+*.wav
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
